@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResearchDispose", "ResearchDispose\ResearchDispose.csproj", "{72E79B09-7B43-44BB-97E4-9766D93E24E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResearchDisposeTests", "ResearchDisposeTests\ResearchDisposeTests.csproj", "{E67A5723-24AE-48F8-874F-BC8922CF4FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E79B09-7B43-44BB-97E4-9766D93E24E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E79B09-7B43-44BB-97E4-9766D93E24E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E79B09-7B43-44BB-97E4-9766D93E24E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E79B09-7B43-44BB-97E4-9766D93E24E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67A5723-24AE-48F8-874F-BC8922CF4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67A5723-24AE-48F8-874F-BC8922CF4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67A5723-24AE-48F8-874F-BC8922CF4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67A5723-24AE-48F8-874F-BC8922CF4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918885DC-39CF-4F2F-A6D3-A0EC462687CC}
+	EndGlobalSection
+EndGlobal
